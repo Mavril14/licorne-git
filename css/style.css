@@ -82,7 +82,7 @@ footer{
 	margin: 40px auto;
 	border : 1px solid;
 	box-shadow: 3px 3px 10px black;
-	border-radius: 5px;
+	border-radius: 10px;
 }
 .clear{
 	clear: both;
