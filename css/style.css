@@ -142,3 +142,7 @@ footer p{
 	font-family: 'Courgette', cursive;
 	font-style: italic;
 }
+
+.client {
+	background:#CCC;
+}
